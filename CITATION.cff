@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated article."
+title: "VDGCI: analysis pipeline for viral-derived DNA and antiphage defense content in bacterial genomes"
+abstract: >-
+  Pipeline and statistical analysis code for quantifying integrated viral
+  sequence and antiphage defense-system content across bacterial genomes,
+  including provirus detection, defense-system annotation and localization,
+  taxon-resolved enrichment estimation and positional analyses.
+type: software
+authors:
+  - family-names: Cheng
+    given-names: Davis W.
+    orcid: "https://orcid.org/0009-0001-1306-8923"
+    affiliation: "Rocky Institute of Biotechnology, Clovis, California, USA"
+    email: dcheng@rockybiotech.org
+license: MIT
+version: 3.2
+date-released: "2026-10-25"
+keywords:
+  - prophage
+  - antiphage defense
+  - mobile genetic elements
+  - comparative genomics
+  - bacterial immunity

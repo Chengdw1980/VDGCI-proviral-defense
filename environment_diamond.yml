@@ -1,0 +1,4 @@
+# DIAMOND 2.0.15 only (CheckV calls diamond with -k 10000; 2.1.9 segfaults on it)
+channels: [conda-forge, bioconda]
+dependencies:
+  - diamond=2.0.15

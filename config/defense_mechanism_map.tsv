@@ -1,0 +1,137 @@
+type	mechanism_class	note
+Abi2	Abortive infection / toxin-antitoxin	
+AbiAlpha	Abortive infection / toxin-antitoxin	
+AbiD	Abortive infection / toxin-antitoxin	
+AbiE	Abortive infection / toxin-antitoxin	
+AbiH	Abortive infection / toxin-antitoxin	
+AbiJ	Abortive infection / toxin-antitoxin	
+AbiL	Abortive infection / toxin-antitoxin	
+AbiN	Abortive infection / toxin-antitoxin	
+AbiU	Abortive infection / toxin-antitoxin	
+Avs	Abortive infection / toxin-antitoxin	
+CARD_NLR	Abortive infection / toxin-antitoxin	
+CBASS	Abortive infection / toxin-antitoxin	
+CapRel	Abortive infection / toxin-antitoxin	
+DarTG	Abortive infection / toxin-antitoxin	
+Lit	Abortive infection / toxin-antitoxin	
+MazEF	Abortive infection / toxin-antitoxin	
+Mok_Hok_Sok	Abortive infection / toxin-antitoxin	
+NLR	Abortive infection / toxin-antitoxin	
+Paris	Abortive infection / toxin-antitoxin	
+PfiAT	Abortive infection / toxin-antitoxin	
+PhiR47_GevAT	Abortive infection / toxin-antitoxin	
+PrrC	Abortive infection / toxin-antitoxin	
+PsyrTA	Abortive infection / toxin-antitoxin	
+Pycsar	Abortive infection / toxin-antitoxin	
+Retron	Abortive infection / toxin-antitoxin	
+RloC	Abortive infection / toxin-antitoxin	
+RnlAB	Abortive infection / toxin-antitoxin	
+RosmerTA	Abortive infection / toxin-antitoxin	
+Rst_TIR-NLR	Abortive infection / toxin-antitoxin	
+SanaTA	Abortive infection / toxin-antitoxin	
+TgvAB	Abortive infection / toxin-antitoxin	
+Thoeris	Abortive infection / toxin-antitoxin	
+BREX	Direct nucleic-acid targeting	
+Cas	Direct nucleic-acid targeting	
+DISARM	Direct nucleic-acid targeting	
+DdmDE	Direct nucleic-acid targeting	
+Dnd	Direct nucleic-acid targeting	
+DpnI	Direct nucleic-acid targeting	
+EcoKMcrA	Direct nucleic-acid targeting	
+GmrSD_RM_Type_IV	Direct nucleic-acid targeting	
+McrBC	Direct nucleic-acid targeting	
+MspJI	Direct nucleic-acid targeting	
+Other_Type_IV	Direct nucleic-acid targeting	
+PvuRts1I	Direct nucleic-acid targeting	
+RM_Type_I	Direct nucleic-acid targeting	
+RM_Type_II	Direct nucleic-acid targeting	
+RM_Type_IIG	Direct nucleic-acid targeting	
+RM_Type_III	Direct nucleic-acid targeting	
+SNIPE	Direct nucleic-acid targeting	membrane nuclease that cleaves injected phage DNA (Saxton et al., Nature 2026) - direct, not Abi
+ScoMcrA	Direct nucleic-acid targeting	
+SspBCDE	Direct nucleic-acid targeting	
+TagI	Direct nucleic-acid targeting	
+Wadjet	Direct nucleic-acid targeting	
+pAgo	Direct nucleic-acid targeting	
+ApsAB	Other or mechanism unresolved	
+Aristaios	Other or mechanism unresolved	
+Armada	Other or mechanism unresolved	
+Belenos	Other or mechanism unresolved	
+Belisama	Other or mechanism unresolved	
+Brigantia	Other or mechanism unresolved	
+Bunzi	Other or mechanism unresolved	
+Ceres	Other or mechanism unresolved	
+Cernunnos	Other or mechanism unresolved	
+Charlie_gp32	Other or mechanism unresolved	
+Clover	Other or mechanism unresolved	
+CoCoNut	Other or mechanism unresolved	
+DRT	Other or mechanism unresolved	
+DRT-like_UG	Other or mechanism unresolved	
+DS-11	Other or mechanism unresolved	
+DS-17	Other or mechanism unresolved	
+DS-23	Other or mechanism unresolved	
+DS-24	Other or mechanism unresolved	
+DS-8	Other or mechanism unresolved	
+DUF262_Shlafen	Other or mechanism unresolved	
+Dag	Other or mechanism unresolved	mechanism not verified - check before publication
+Damona	Other or mechanism unresolved	
+Divona	Other or mechanism unresolved	
+Eleos	Other or mechanism unresolved	
+Epona	Other or mechanism unresolved	
+Esos	Other or mechanism unresolved	
+FS_Sma	Other or mechanism unresolved	
+GAPS1	Other or mechanism unresolved	
+GAPS2	Other or mechanism unresolved	
+Gabija	Other or mechanism unresolved	
+Gao_Mza	Other or mechanism unresolved	
+Gao_Ppl	Other or mechanism unresolved	
+Gao_Qat	Other or mechanism unresolved	
+Gao_TerY	Other or mechanism unresolved	
+Gao_Tmn	Other or mechanism unresolved	
+HEC-01	Other or mechanism unresolved	
+HEC-05	Other or mechanism unresolved	
+Hachiman	Other or mechanism unresolved	
+Hesat	Other or mechanism unresolved	
+Hna	Other or mechanism unresolved	
+Kiwa	Other or mechanism unresolved	
+Lamassu-Fam	Other or mechanism unresolved	
+Lanthiphage	Other or mechanism unresolved	
+Lugos	Other or mechanism unresolved	
+MADS	Other or mechanism unresolved	
+MADS3-4	Other or mechanism unresolved	
+Menshen	Other or mechanism unresolved	
+Mokosh	Other or mechanism unresolved	
+Nantosuelta	Other or mechanism unresolved	
+Nemetona	Other or mechanism unresolved	
+Ogmios	Other or mechanism unresolved	
+PD-Lambda-5	Other or mechanism unresolved	
+PD-T4-1	Other or mechanism unresolved	
+PD-T4-3	Other or mechanism unresolved	
+PD-T4-5	Other or mechanism unresolved	
+PD-T7-1	Other or mechanism unresolved	
+PD-T7-2	Other or mechanism unresolved	
+Panchino_gp28	Other or mechanism unresolved	
+Phrann_gp29_gp30	Other or mechanism unresolved	
+Prometheus	Other or mechanism unresolved	
+Rhea	Other or mechanism unresolved	
+Rst_HelicaseDUF2290	Other or mechanism unresolved	
+Rugutis	Other or mechanism unresolved	
+SDIC3	Other or mechanism unresolved	
+Septu	Other or mechanism unresolved	
+Shango	Other or mechanism unresolved	
+Shedu	Other or mechanism unresolved	
+Sirona	Other or mechanism unresolved	
+SoFIC	Other or mechanism unresolved	
+SpbK	Other or mechanism unresolved	
+Stk2	Other or mechanism unresolved	
+Sucellos	Other or mechanism unresolved	
+Taranis	Other or mechanism unresolved	
+Tiamat	Other or mechanism unresolved	
+Toutatis	Other or mechanism unresolved	
+Uzume	Other or mechanism unresolved	
+VP1839	Other or mechanism unresolved	
+VP1853	Other or mechanism unresolved	
+Zorya	Other or mechanism unresolved	
+dCTPdeaminase	Other or mechanism unresolved	
+dGTPase	Other or mechanism unresolved	
+gcu233	Other or mechanism unresolved	

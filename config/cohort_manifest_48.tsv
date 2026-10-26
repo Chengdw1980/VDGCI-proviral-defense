@@ -1,0 +1,49 @@
+species	phylum	class	lifestyle	accession	organism	taxid	genome_bp	assembly_level
+Escherichia coli K-12 MG1655	Pseudomonadota	Gammaproteobacteria	facultative_pathogen	GCF_000005845.2	Escherichia coli str. K-12 substr. MG1655	511145	4641652	Complete Genome
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	Pseudomonadota	Gammaproteobacteria	facultative_pathogen	GCF_000006945.2	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	99287	4951383	Complete Genome
+Pseudomonas aeruginosa PAO1	Pseudomonadota	Gammaproteobacteria	opportunistic_pathogen	GCF_000006765.1	Pseudomonas aeruginosa PAO1	208964	6264404	Complete Genome
+Vibrio cholerae O1 biovar El Tor str. N16961	Pseudomonadota	Gammaproteobacteria	facultative_pathogen	GCF_000006745.1	Vibrio cholerae O1 biovar El Tor str. N16961	243277	4033464	Complete Genome
+Yersinia pestis CO92	Pseudomonadota	Gammaproteobacteria	pathogen	GCF_000009065.1	Yersinia pestis CO92	214092	4829855	Complete Genome
+Klebsiella pneumoniae subsp. pneumoniae HS11286	Pseudomonadota	Gammaproteobacteria	opportunistic_pathogen	GCF_000240185.1	Klebsiella pneumoniae subsp. pneumoniae HS11286	1125630	5682322	Complete Genome
+Acinetobacter baumannii ATCC 17978	Pseudomonadota	Gammaproteobacteria	opportunistic_pathogen	GCF_004797155.2	Acinetobacter baumannii ATCC 17978	400667	4016303	Complete Genome
+Haemophilus influenzae Rd KW20	Pseudomonadota	Gammaproteobacteria	host_associated	GCF_000027305.1	Haemophilus influenzae Rd KW20	71421	1830138	Complete Genome
+Legionella pneumophila subsp. pneumophila str. Philadelphia 1	Pseudomonadota	Gammaproteobacteria	facultative_intracellular	GCF_000008485.1	Legionella pneumophila subsp. pneumophila str. Philadelphia 1	272624	3397754	Complete Genome
+Xanthomonas campestris pv. campestris str. ATCC 33913	Pseudomonadota	Gammaproteobacteria	plant_pathogen	GCF_000007145.1	Xanthomonas campestris pv. campestris str. ATCC 33913	190485	5076188	Complete Genome
+Shewanella oneidensis MR-1	Pseudomonadota	Gammaproteobacteria	free_living	GCF_000146165.2	Shewanella oneidensis MR-1	211586	5131424	Complete Genome
+Helicobacter pylori 26695	Campylobacterota	Epsilonproteobacteria	pathogen	GCF_000307795.1	Helicobacter pylori 26695	85962	1667892	Complete Genome
+Campylobacter jejuni subsp. jejuni NCTC 11168	Campylobacterota	Epsilonproteobacteria	pathogen	GCF_000009085.1	Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819	192222	1641481	Complete Genome
+Caulobacter vibrioides CB15	Pseudomonadota	Alphaproteobacteria	free_living	GCF_000006905.1	Caulobacter vibrioides CB15	190650	4016947	Complete Genome
+Rhodobacter sphaeroides 2.4.1	Pseudomonadota	Alphaproteobacteria	free_living	GCF_003324715.1	Cereibacter sphaeroides 2.4.1	272943	4629754	Complete Genome
+Agrobacterium fabrum str. C58	Pseudomonadota	Alphaproteobacteria	plant_pathogen	GCF_000092025.1	Agrobacterium fabrum str. C58	176299	5674258	Complete Genome
+Rickettsia prowazekii str. Madrid E	Pseudomonadota	Alphaproteobacteria	obligate_intracellular	GCF_000195735.1	Rickettsia prowazekii str. Madrid E	272947	1111523	Complete Genome
+Brucella melitensis bv. 1 str. 16M	Pseudomonadota	Alphaproteobacteria	facultative_intracellular	GCF_000007125.1	Brucella melitensis bv. 1 str. 16M	224914	3294931	Complete Genome
+Neisseria meningitidis MC58	Pseudomonadota	Betaproteobacteria	pathogen	GCF_000008805.1	Neisseria meningitidis MC58	122586	2272360	Complete Genome
+Bordetella pertussis Tohama I	Pseudomonadota	Betaproteobacteria	pathogen	GCF_000195715.1	Bordetella pertussis Tohama I	257313	4086189	Complete Genome
+Burkholderia pseudomallei K96243	Pseudomonadota	Betaproteobacteria	facultative_intracellular	GCF_000011545.1	Burkholderia pseudomallei K96243	272560	7247547	Complete Genome
+Myxococcus xanthus DK 1622	Myxococcota	Deltaproteobacteria	free_living	GCF_000012685.1	Myxococcus xanthus DK 1622	246197	9139763	Complete Genome
+Bacillus subtilis subsp. subtilis str. 168	Bacillota	Bacilli	free_living	GCF_000009045.1	Bacillus subtilis subsp. subtilis str. 168	224308	4215606	Complete Genome
+Staphylococcus aureus subsp. aureus N315	Bacillota	Bacilli	opportunistic_pathogen	GCF_000009645.1	Staphylococcus aureus subsp. aureus N315	158879	2839469	Complete Genome
+Listeria monocytogenes EGD-e	Bacillota	Bacilli	facultative_intracellular	GCF_000196035.1	Listeria monocytogenes EGD-e	169963	2944528	Complete Genome
+Streptococcus pyogenes M1 GAS	Bacillota	Bacilli	pathogen	GCF_000006785.2	Streptococcus pyogenes M1 GAS	160490	1852433	Complete Genome
+Enterococcus faecalis V583	Bacillota	Bacilli	commensal_pathogen	GCF_000007785.1	Enterococcus faecalis V583	226185	3359974	Complete Genome
+Lactiplantibacillus plantarum WCFS1	Bacillota	Bacilli	commensal	GCF_000203855.3	Lactiplantibacillus plantarum WCFS1	220668	3348624	Complete Genome
+Clostridioides difficile 630	Bacillota	Clostridia	pathogen	GCF_000009205.2	Clostridioides difficile 630	272563	4298133	Complete Genome
+Clostridium acetobutylicum ATCC 824	Bacillota	Clostridia	free_living	GCF_000008765.1	Clostridium acetobutylicum ATCC 824	272562	4132880	Complete Genome
+Mycobacterium tuberculosis H37Rv	Actinomycetota	Actinomycetes	pathogen	GCF_000195955.2	Mycobacterium tuberculosis H37Rv	83332	4411532	Complete Genome
+Streptomyces coelicolor A3(2)	Actinomycetota	Actinomycetes	free_living	GCF_000203835.1	Streptomyces coelicolor A3(2)	100226	9054847	Complete Genome
+Corynebacterium glutamicum ATCC 13032	Actinomycetota	Actinomycetes	free_living	GCF_000011325.1	Corynebacterium glutamicum ATCC 13032	196627	3309401	Complete Genome
+Bifidobacterium longum NCC2705	Actinomycetota	Actinomycetes	commensal	GCF_000007525.1	Bifidobacterium longum NCC2705	206672	2260266	Complete Genome
+Bacteroides thetaiotaomicron VPI-5482	Bacteroidota	Bacteroidia	gut_commensal	GCF_000011065.1	Bacteroides thetaiotaomicron VPI-5482	226186	6293399	Complete Genome
+Bacteroides fragilis NCTC 9343	Bacteroidota	Bacteroidia	gut_commensal	GCF_000025985.1	Bacteroides fragilis NCTC 9343	272559	5241700	Complete Genome
+Porphyromonas gingivalis W83	Bacteroidota	Bacteroidia	pathogen	GCF_000007585.1	Porphyromonas gingivalis W83	242619	2343476	Complete Genome
+Mycoplasmoides genitalium G37	Mycoplasmatota	Mollicutes	host_restricted_minimal	GCF_000027325.1	Mycoplasmoides genitalium G37	243273	580076	Complete Genome
+Mycoplasmoides pneumoniae M129	Mycoplasmatota	Mollicutes	pathogen	GCF_000027345.1	Mycoplasmoides pneumoniae M129	272634	816394	Complete Genome
+Chlamydia trachomatis D/UW-3/CX	Chlamydiota	Chlamydiia	obligate_intracellular	GCF_000008725.1	Chlamydia trachomatis D/UW-3/CX	272561	1042519	Complete Genome
+Borreliella burgdorferi B31	Spirochaetota	Spirochaetia	pathogen	GCF_000008685.2	Borreliella burgdorferi B31	224326	1521208	Complete Genome
+Treponema pallidum subsp. pallidum str. Nichols	Spirochaetota	Spirochaetia	pathogen	GCF_000410535.2	Treponema pallidum subsp. pallidum str. Nichols	243276	1139633	Chromosome
+Leptospira interrogans serovar Lai str. 56601	Spirochaetota	Spirochaetia	pathogen	GCF_000092565.1	Leptospira interrogans serovar Lai str. 56601	189518	4698134	Complete Genome
+Synechocystis sp. PCC 6803	Cyanobacteriota	Cyanophyceae	free_living	GCF_000009725.1	Synechocystis sp. PCC 6803	1148	3947019	Complete Genome
+Nostoc sp. PCC 7120	Cyanobacteriota	Cyanophyceae	free_living	GCF_000009705.1	Nostoc sp. PCC 7120 = FACHB-418	103690	7211789	Complete Genome
+Deinococcus radiodurans R1	Deinococcota	Deinococci	extremophile	GCF_020546685.1	Deinococcus radiodurans R1 = ATCC 13939 = DSM 20539	243230	3279598	Complete Genome
+Thermotoga maritima MSB8	Thermotogota	Thermotogae	hyperthermophile	GCF_000230655.2	Thermotoga maritima MSB8	243274	1869644	Complete Genome
+Fusobacterium nucleatum subsp. nucleatum ATCC 25586	Fusobacteriota	Fusobacteriia	host_associated	GCF_003019295.1	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	190304	2180101	Complete Genome

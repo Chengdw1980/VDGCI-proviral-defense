@@ -1,0 +1,28 @@
+name: vdgci
+# v3.1 (23 Oct 2026): main environment. The old single environment could not be
+# solved (DIAMOND 2.0.15 conflicts with geNomad's TensorFlow; the 'defaults'
+# channel added further conflicts). DIAMOND 2.0.15 and DefenseFinder now live in
+# their own small environments (environment_diamond.yml, environment_df.yml);
+# scripts/00_install_envs.sh builds all three and puts wrappers in $TOOLS_BIN.
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - genomad=1.12.0          # integrated viral element detection
+  - mmseqs2
+  - aragorn
+  - checkv=1.1.1            # provirus completeness (uses DIAMOND 2.0.15 via $TOOLS_BIN)
+  - diamond                 # placeholder only; the pinned 2.0.15 in $TOOLS_BIN takes precedence
+  - phispy=5.0.10
+  - ncbi-datasets-cli>=18.0
+  - hmmer
+  - prodigal
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - biopython
+  - treeswift
+  - statsmodels
+  - pip

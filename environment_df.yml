@@ -1,0 +1,8 @@
+# DefenseFinder 3.0.0 (PyPI package mdmparis-defense-finder) + MacSyFinder 2.1.4 + HMMER
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.11
+  - hmmer
+  - pip
+  - pip:
+      - mdmparis-defense-finder==3.0.0
